@@ -1,0 +1,71 @@
+var friends = [
+    {
+    "name":"Ahmed",
+    "photo":"https://i.stack.imgur.com/l60Hf.png",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+
+  {
+    "name":"Kim",
+    "photo":"https://i.stack.imgur.com/l60Hf.png",
+    "scores":[
+        3,
+        2,
+        4,
+        1,
+        4,
+        1,
+        2,
+        3,
+        4,
+        1
+      ]
+  },
+
+  {
+    "name":"Ted",
+    "photo":"https://i.stack.imgur.com/l60Hf.png",
+    "scores":[
+        3,
+        2,
+        5,
+        1,
+        5,
+        1,
+        2,
+        3,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Abby",
+    "photo":"https://i.stack.imgur.com/l60Hf.png",
+    "scores":[
+        3,
+        4,
+        3,
+        2,
+        5,
+        1,
+        2,
+        5,
+        3,
+        1
+      ]
+  }
+]
+
+module.exports = friends;
+  
